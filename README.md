@@ -8,6 +8,9 @@
 - [Awesome Learning Resources](#awesome-learning-resources)
   - [Table of Contents](#table-of-contents)
   - [Software Engineer](#software-engineer)
+  - [Math](#math)
+  - [Blogs](#blogs)
+  - [Articles](#articles)
 
 ### Software Engineer
 
