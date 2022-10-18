@@ -56,6 +56,7 @@
 
 ### Articles
 
+- [ ]  [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
 - [ ]  [Visão geral nextjs](https://vercel.com/blog/upgrading-nextjs-for-instant-performance-improvements)
 - [ ]  [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [ ]  [React architecture](https://www.joshwcomeau.com/react/file-structure/)
