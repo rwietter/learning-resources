@@ -56,6 +56,8 @@
 
 ### Articles
 
+- [ ]  [Turbo Vs Nx](https://nx.dev/more-concepts/turbo-and-nx)
+- [ ]  [Misconceptions about Monorepos: Monorepo != Monolith](https://blog.nrwl.io/misconceptions-about-monorepos-monorepo-monolith-df1250d4b03c)
 - [ ]  [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
 - [ ]  [Visão geral nextjs](https://vercel.com/blog/upgrading-nextjs-for-instant-performance-improvements)
 - [ ]  [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
