@@ -23,6 +23,21 @@
 
 - [Carnival of Mathematics](https://aperiodical.com/carnival-of-mathematics/)
 
+### APIs
+
+- [] [tRPC](https://github.com/trpc/trpc)
+
+
+### Caching
+
+- [] [Dragonfly](https://github.com/dragonflydb/dragonfly)
+
+
+### Devops
+
+- [] [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+
+
 ### Blogs
 
 1. [Modern CSS](https://moderncss.dev/guide-to-advanced-css-selectors-part-one/)
