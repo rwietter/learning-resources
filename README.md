@@ -1,4 +1,4 @@
-# Awesome Learning Resources
+# Learning Resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rwietter/awesome-learning-software) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
@@ -25,17 +25,17 @@
 
 ### APIs
 
-- [] [tRPC](https://github.com/trpc/trpc)
+- [ ] [tRPC](https://github.com/trpc/trpc)
 
 
 ### Caching
 
-- [] [Dragonfly](https://github.com/dragonflydb/dragonfly)
+- [ ] [Dragonfly](https://github.com/dragonflydb/dragonfly)
 
 
 ### Devops
 
-- [] [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+- [ ] [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 
 
 ### Blogs
