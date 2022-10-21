@@ -25,17 +25,22 @@
 
 ### APIs
 
-- [ ] [tRPC](https://github.com/trpc/trpc)
+- [tRPC](https://github.com/trpc/trpc)
 
 
 ### Caching
 
-- [ ] [Dragonfly](https://github.com/dragonflydb/dragonfly)
+- [Dragonfly](https://github.com/dragonflydb/dragonfly)
 
 
 ### Devops
 
-- [ ] [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+- [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+
+
+### Typescript
+
+- [Typedoc](https://typedoc.org/)
 
 
 ### Blogs
