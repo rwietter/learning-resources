@@ -91,6 +91,15 @@
 ### Articles
 
 - [ ]  [Turbo Vs Nx](https://nx.dev/more-concepts/turbo-and-nx)
+- [ ]  [Streaming: is it worth it?](https://www.builder.io/blog/streaming-is-it-worth-it)
+- [ ]  [Prioritise content over components](https://www.simeongriggs.dev/components-considered-harmful-for-content)
+- [ ]  []()
+- [ ]  []()
+- [ ]  []()
+- [ ]  []()
+- [ ]  []()
+- [ ]  []()
+- [ ]  []()
 - [ ]  [Misconceptions about Monorepos: Monorepo != Monolith](https://blog.nrwl.io/misconceptions-about-monorepos-monorepo-monolith-df1250d4b03c)
 - [ ]  [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
 - [ ]  [Visão geral nextjs](https://vercel.com/blog/upgrading-nextjs-for-instant-performance-improvements)
