@@ -51,6 +51,11 @@
 
 - [Regex Learn](https://regexlearn.com/)
 
+### React
+
+- [Tremor](https://github.com/tremorlabs/tremor)
+- [Radix UI](https://www.radix-ui.com/)
+- [Stitches](https://stitches.dev/)
 
 ### Blogs
 
@@ -132,11 +137,4 @@
 - [ ]  [React websocks](https://dev.to/itays123/using-websockets-with-react-js-the-right-way-no-library-needed-15d0?ck_subscriber_id=1242116138)
 - [ ]  [A Non-Comprehensive Guide to YAML for Folks Who Like JSON Just Fine](https://chan.dev/posts/a-non-comprehensive-guide-to-yaml-for-folks-who-like-json-just-fine/?ck_subscriber_id=1116688606)
 - [ ]  [useMousePosition](https://www.joshwcomeau.com/snippets/react-hooks/use-mouse-position/)
-
----
-
-### React Libs
-
-- [Tremor](https://github.com/tremorlabs/tremor)
-- [Radix UI](https://www.radix-ui.com/)
-- [Stitches](https://stitches.dev/)
+- [x] [Processos de Software](https://medium.com/contexto-delimitado/os-processos-de-software-56a2e70fddfb)
