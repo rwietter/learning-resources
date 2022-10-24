@@ -11,6 +11,7 @@
   - [Math](#math)
   - [Blogs](#blogs)
   - [Articles](#articles)
+  - [SQL](#sql)
 
 ### Software Engineer
 
@@ -41,6 +42,10 @@
 ### Typescript
 
 - [Typedoc](https://typedoc.org/)
+
+### SQL
+
+- [Modern SQL](https://modern-sql.com/)
 
 
 ### Blogs
@@ -131,5 +136,3 @@
 - [Tremor](https://github.com/tremorlabs/tremor)
 - [Radix UI](https://www.radix-ui.com/)
 - [Stitches](https://stitches.dev/)
-- []()
-
