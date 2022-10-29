@@ -20,6 +20,10 @@
 - [Newsletter Refactoring](https://refactoring.fm/)
 - [Engenharia de Software Moderna](https://engsoftmoderna.info/)
 
+### Dev tools
+
+- [WebComponents](https://webcomponents.dev/new)
+
 ### Math
 
 - [Carnival of Mathematics](https://aperiodical.com/carnival-of-mathematics/)
